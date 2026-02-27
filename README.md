@@ -53,4 +53,4 @@ website-safety-checker:-
 Disclaimer
 This project is for educational purposes only and may not be fully accurate in detecting all types of malicious websites. Always use additional tools and precautions when browsing the web.
 Author
- – https://github.com/71rutvik
+ –github.com/Rutvik-71
